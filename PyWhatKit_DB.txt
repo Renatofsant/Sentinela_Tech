@@ -1,0 +1,200 @@
+Date: 11/3/2026
+Time: 19:56
+Phone Number: +5521900000000
+Message: SOCORRO! O dispositivo Sentinela foi acionado via ALERTA_BOTAO. Verifique agora!
+--------------------
+Date: 11/3/2026
+Time: 19:58
+Phone Number: +5521900000000
+Message: SOCORRO! O dispositivo Sentinela foi acionado via ALERTA_SOM. Verifique agora!
+--------------------
+Date: 11/3/2026
+Time: 20:13
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: ⚠️ ALERTA SENTINELA: O botão físico de emergência foi acionado! Horário: 20:13:11.
+--------------------
+Date: 11/3/2026
+Time: 20:13
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: 🔊 AVISO SENTINELA: O sensor detectou um ruído de alta intensidade. Verifique o local! Horário: 20:13:55.
+--------------------
+Date: 11/3/2026
+Time: 20:14
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: 🔊 AVISO SENTINELA: O sensor detectou um ruído de alta intensidade. Verifique o local! Horário: 20:14:41.
+--------------------
+Date: 11/3/2026
+Time: 20:22
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: ALERTA SENTINELA: O botão físico de emergência foi acionado! Horário: 20:22:32.
+--------------------
+Date: 11/3/2026
+Time: 20:23
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruído de alta intensidade. Verifique o local! Horário: 20:23:29.
+--------------------
+Date: 11/3/2026
+Time: 20:24
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruído de alta intensidade. Verifique o local! Horário: 20:24:27.
+--------------------
+Date: 11/3/2026
+Time: 20:47
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: ALERTA SENTINELA: O botao fisico de emergencia foi acionado! Horario: 20:47:43.
+--------------------
+Date: 11/3/2026
+Time: 20:48
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 20:48:37.
+--------------------
+Date: 11/3/2026
+Time: 20:51
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 20:51:00.
+--------------------
+Date: 11/3/2026
+Time: 20:54
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 20:54:24.
+--------------------
+Date: 11/3/2026
+Time: 20:57
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: ALERTA SENTINELA: O botao fisico de emergencia foi acionado! Horario: 20:57:27.
+--------------------
+Date: 11/3/2026
+Time: 20:58
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 20:58:21.
+--------------------
+Date: 11/3/2026
+Time: 20:59
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 20:59:18.
+--------------------
+Date: 11/3/2026
+Time: 21:2
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:02:19.
+--------------------
+Date: 11/3/2026
+Time: 21:6
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:06:49.
+--------------------
+Date: 11/3/2026
+Time: 21:7
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:07:45.
+--------------------
+Date: 11/3/2026
+Time: 21:8
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:08:41.
+--------------------
+Date: 11/3/2026
+Time: 21:9
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:09:38.
+--------------------
+Date: 11/3/2026
+Time: 21:10
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:10:34.
+--------------------
+Date: 11/3/2026
+Time: 21:11
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:11:30.
+--------------------
+Date: 11/3/2026
+Time: 21:12
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:12:27.
+--------------------
+Date: 11/3/2026
+Time: 21:13
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:13:23.
+--------------------
+Date: 11/3/2026
+Time: 21:14
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:14:19.
+--------------------
+Date: 11/3/2026
+Time: 21:15
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:15:16.
+--------------------
+Date: 11/3/2026
+Time: 21:16
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:16:12.
+--------------------
+Date: 11/3/2026
+Time: 21:24
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: ALERTA SENTINELA: O botao fisico de emergencia foi acionado! Horario: 21:24:12.
+--------------------
+Date: 11/3/2026
+Time: 21:25
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:25:06.
+--------------------
+Date: 11/3/2026
+Time: 21:26
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:26:35.
+--------------------
+Date: 11/3/2026
+Time: 21:35
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:35:22.
+--------------------
+Date: 11/3/2026
+Time: 21:36
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:36:19.
+--------------------
+Date: 11/3/2026
+Time: 21:37
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:37:15.
+--------------------
+Date: 11/3/2026
+Time: 21:38
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:38:11.
+--------------------
+Date: 11/3/2026
+Time: 21:45
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: ALERTA SENTINELA: O botao fisico de emergencia foi acionado! Horario: 21:45:38.
+--------------------
+Date: 11/3/2026
+Time: 21:46
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:46:32.
+--------------------
+Date: 11/3/2026
+Time: 21:47
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:47:28.
+--------------------
+Date: 11/3/2026
+Time: 21:52
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:52:30.
+--------------------
+Date: 11/3/2026
+Time: 21:57
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: ALERTA SENTINELA: O botao fisico de emergencia foi acionado! Horario: 21:57:09.
+--------------------
+Date: 11/3/2026
+Time: 21:58
+Group ID: Dl9OmdFOj9KAQKSMkZJ3h7
+Message: AVISO SENTINELA: O sensor detectou um ruido de alta intensidade. Verifique o local! Horario: 21:58:03.
+--------------------

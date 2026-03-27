@@ -1,0 +1,4 @@
+streamlit
+pyserial
+selenium
+webdriver-manager
