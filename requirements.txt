@@ -1,4 +1,6 @@
 streamlit
 pyserial
+pywhatkit
+pandas
 selenium
 webdriver-manager
